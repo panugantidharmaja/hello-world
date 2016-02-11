@@ -3,5 +3,5 @@ repository
 
 
 Hiii
-This id Dharmaja.
+This is Dharmaja.
 I am very much intrested in coding and learning new things.
